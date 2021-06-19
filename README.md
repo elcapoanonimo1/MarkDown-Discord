@@ -1,7 +1,6 @@
 # Markdown Text 101
 
-Want to inject some flavor into your everyday text chat? You're in luck! Discord uses Markdown, a simple plain text formatting system that'll help you **make your sentences stand out**. Here's how to do it! Just add a few characters before & after your desired text to change your text! I'll show you some examples...
-
+¿Quieres inyectar un poco de sabor a tu chat de texto diario? ¡Estás de suerte! Discord usa Markdown, un sencillo sistema de formato de texto sin formato que te ayudará **haz que tus oraciones se destaquen**. ¡Aquí se explica cómo hacerlo! ¡Simplemente agregue algunos caracteres antes y después del texto deseado para cambiar su texto! Te mostraré algunos ejemplos ...
 ## Sweet Styles
 
 *Italics*	\*italics* **or** \_italics\_
@@ -20,37 +19,37 @@ __Underline__	\_\_underline__
 
 ~~Strikethrough~~	 \~\~Strikethrough~~
 
-Don't want to use markdown? You can slap a backslash in front of your statement, or put your message in a code block, and it'll escape the markdown formatting. You'll see those asterisks as you'd like! Just keep in mind, it doesn't work in messages with edits or underscores.
+¿No quieres usar Markdown? Puede colocar una barra invertida delante de su declaración, o poner su mensaje en un bloque de código, y escapará del formato de rebajas. ¡Verás esos asteriscos como quieras! Solo tenga en cuenta que no funciona en mensajes con ediciones o guiones bajos.
 
-## Block Quotes
+## Cotizaciones en bloque
 
-The syntax to use Block Quotes is > or >>> followed by a space.
+La sintaxis para usar Block Quotes es > o >>> seguido de un espacio.
 
-**\>** at the beginning of a line of text, creates a single-line block quote.
+**\>** al principio de una línea de texto, crea una cita en bloque de una sola línea.
 
 ![one line block quote](https://i.imgur.com/Sjie1q4.png)
 
-**\>\>\>** at the beginning of a line of text, creates a multi-line block quote. All text from `>>>` until the end of the message will be included in the quote.
+**\>\>\>** al principio de una línea de texto, crea una cita en bloque de varias líneas. Todo el texto de `>>>` hasta el final del mensaje se incluirá en la cotización.
 
 ![multiline block quote](https://i.imgur.com/6vfzz5B.png)
 
 ## Code Blocks
 
-Discord also supports code blocks as well.  You can make your own code blocks by wrapping your text in backticks (\`)
+Discord también admite bloques de código. Puede crear sus propios bloques de código envolviendo su texto con comillas invertidas (\`)
 
 ![one line code blocks](https://i.imgur.com/MbFPHmY.png)
 
-You can also use three backticks (\`\`\`) to create multiline code blocks, like this beautifully written haiku.
+También puedes usar tres comillas invertidas (\`\`\`) para crear bloques de código de varias líneas, como este haiku bellamente escrito.
 
 ![multiline code blocks](https://i.imgur.com/4QAF6uV.png)
 
-## Syntax Highlighting
+## Resaltado de Sintaxis
 
-If you really want to spruce up your code blocks, you can denote a specific language for **syntax highlighting**, by typing the name of the language you want the code block to expect right after the first three backticks beginning your code block. An example...
+Si realmente desea arreglar sus bloques de código, puede indicar un idioma específico para **resaltado de sintaxis**, escribiendo el nombre del idioma que desea que el bloque de código espere justo después de las tres primeras comillas invertidas que comienzan su bloque de código. Un ejemplo...
 
 ![syntax highlighting](https://i.imgur.com/SSzdgiw.png)
 
-There are many different languages in place of Markdown that Discord's syntax highlighting support. Each different language has its own approach to highlight-able syntax. For a full list: https://highlightjs.org/static/demo/. Note that you won't be able to view syntax highlighting on the mobile app.
+Hay muchos idiomas diferentes en lugar de Markdown que admite el resaltado de sintaxis de Discord. Cada idioma diferente tiene su propio enfoque para la sintaxis resaltable. Para una lista completa: https://highlightjs.org/static/demo/. Tenga en cuenta que no podrá ver el resaltado de sintaxis en la aplicación móvil.
 
 asciidoc
 
@@ -128,8 +127,4 @@ xml
 
 ![xml](https://i.imgur.com/4cCrGr4.png)
 
-And you get the idea! Now you're a **Discord text markdown expert**. Get out there and highlight your statements!
-
-## Acknowledgements
-
-[Hammer and Chisel](https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
+¡Y entiendes la idea! Ahora eres un **Experto en MarkDown de discord**. ¡Sal y resalta tus declaraciones!
